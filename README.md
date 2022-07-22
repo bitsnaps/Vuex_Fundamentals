@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Next step:
+- Use `Getters`: Simplify the code
+- Use `Modules` Dividing store into separate modules
+- Use `Mappers`: using `MapState` to simplify the code.
